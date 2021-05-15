@@ -18,7 +18,7 @@ Built entirely:
 ```
 
 ## ⚒ Deploy
-👉 https://jazzdesign.github.io/react-movielist/
+👉 https://jazzdesign.github.io/pokedex-vanilla/
 
 ## 🙋 Code by me.
 @jsonchicas / @JazzDesign
