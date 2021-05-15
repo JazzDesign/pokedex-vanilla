@@ -3,7 +3,7 @@ Pokédex with HTLM, CSS and Vanilla JS in order to practice JS and API calls
 
 ## 📱 Screenshot
 
-![pokedex]()
+![pokedex](https://github.com/JazzDesign/pokedex-vanilla/blob/main/pokedex-screenshot.png)
 
 
 ## 📚 Technical Details
